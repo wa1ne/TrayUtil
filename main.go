@@ -95,7 +95,7 @@ func executeScript(scriptPath string) {
 		cmd := exec.Command("cmd", "/c", "start", "cmd", "/k", "go run", scriptPath)
 		err := cmd.Start()
 		if err != nil {
-			fmt.Println("Error starting Python script:", err)
+			fmt.Println("Error starting Golang script:", err)
 		}
 	case ".py":
 		cmd := exec.Command("cmd", "/c", "start", "cmd", "/k", "python", scriptPath)
