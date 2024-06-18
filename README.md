@@ -71,7 +71,7 @@ Example eng.yaml:
 quit_button: "Quit"
 ```
 
-### How to add different 
+### How to add different formats
 You can make working commands for your types of files by making case swithes in `executeScript` function
 ```go
 case ".type":
