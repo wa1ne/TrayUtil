@@ -1,5 +1,7 @@
 # TrayUtil
 
+![TUbanner](https://github.com/wa1ne/TrayUtil/assets/124814881/a0c10304-3355-4e89-b2ce-7023d1bc3312)
+
 TrayUtil is a simple system tray application developed in Go that allows users to easily launch specified utilities or scripts directly from the system tray. The application reads a configuration file to dynamically create menu items in the system tray, which users can click to run their utilities.
 
 ![изображение](https://github.com/wa1ne/TrayUtils/assets/124814881/297e50a8-23ec-458e-98d4-5c0ee3607607)
