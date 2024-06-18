@@ -1,0 +1,4 @@
+language: "eng" #Can be changed to "ru"
+utils:
+  - path: "notepad.exe"
+    name: "Run notepad"
