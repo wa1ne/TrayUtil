@@ -8,7 +8,7 @@ TrayUtil is a simple system tray application developed in Go that allows users t
 
 * Clone the Repository:
 ```bash
-git clone https://github.com/wa1ne/TrayUtils
+git clone https://github.com/wa1ne/TrayUtils.git
 cd trayutil
 ```
 
